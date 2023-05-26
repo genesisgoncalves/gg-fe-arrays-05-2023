@@ -7,4 +7,3 @@ console.log(javascript1.toString());
 console.log(javascript1.pop);
 console.log(javascript1.unshift("ArraysDifíciles"));
 
-javascript1 = [2,3]
